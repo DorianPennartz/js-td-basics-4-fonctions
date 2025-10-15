@@ -27,7 +27,7 @@ N.B. La déclaration, à elle toute seule, ne produit aucun résultat visible
 function direBonjour() {
     // À vous de remplir le contenu de cette fonction pour afficher "Bonjour !" dans la console.
 }
-
+dzdz
 // 2°) a) Exécuter la fonction (appelez la fonction direBonjour)
 
 // 3°) a) Stocker le résultat de l'exécution de direBonjour dans une variable resultat
